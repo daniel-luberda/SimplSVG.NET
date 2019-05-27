@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplSVG.NET", "SimplSVG.NET\SimplSVG.NET.csproj", "{3B1EC7AA-EED6-41A4-9EF1-7ACB1B378BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplSVG.NET.DOM", "SimplSVG.NET.DOM\SimplSVG.NET.DOM.csproj", "{EB6CDC58-45A0-4B96-96C5-B2431BB1091A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplSVG.NET.Types", "SimplSVG.NET.Types\SimplSVG.NET.Types.csproj", "{59644031-10E9-4D57-A7C3-70913D828AFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,13 @@ Global
 		{3B1EC7AA-EED6-41A4-9EF1-7ACB1B378BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B1EC7AA-EED6-41A4-9EF1-7ACB1B378BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B1EC7AA-EED6-41A4-9EF1-7ACB1B378BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6CDC58-45A0-4B96-96C5-B2431BB1091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6CDC58-45A0-4B96-96C5-B2431BB1091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6CDC58-45A0-4B96-96C5-B2431BB1091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6CDC58-45A0-4B96-96C5-B2431BB1091A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59644031-10E9-4D57-A7C3-70913D828AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59644031-10E9-4D57-A7C3-70913D828AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59644031-10E9-4D57-A7C3-70913D828AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59644031-10E9-4D57-A7C3-70913D828AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -10,15 +10,4 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
-  <ItemGroup>
-    <Folder Include="Tree\" />
-    <Folder Include="Convert\" />
-    <Folder Include="Geom\" />
-    <Folder Include="Extensions\" />
-    <Folder Include="Tree\Attributes\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SimplSVG.NET.DOM\SimplSVG.NET.DOM.csproj" />
-    <ProjectReference Include="..\SimplSVG.NET.Types\SimplSVG.NET.Types.csproj" />
-  </ItemGroup>
 </Project>
